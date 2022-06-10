@@ -5,7 +5,7 @@ for((i=2;i<n;i++))
 do
 if((n%i==0))
 then
-f=$((f+1)
+f=$((f+1))
 fi
 done
 if((f>0))
